@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\Solange\\Anaconda3\\python.exe",
+    "python.pythonPath": "C:\\Users\\Solange\\Anaconda3\\envs\\frenchtime\\python.exe",
     "appService.zipIgnorePattern": [
         ".vscode{,/**}"
     ],

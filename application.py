@@ -2,7 +2,7 @@ from flask import Flask, render_template, redirect, url_for, request
 from datetime import datetime
 from pytz import timezone    
 
-
+ 
 app = Flask(__name__)
 
 def get_french_time():
