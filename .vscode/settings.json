@@ -1,3 +1,8 @@
 {
-    "python.pythonPath": "C:\\Users\\Solange\\Anaconda3\\python.exe"
+    "python.pythonPath": "C:\\Users\\Solange\\Anaconda3\\python.exe",
+    "appService.zipIgnorePattern": [
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/8ac9c6d5-ae8e-44a4-860c-f7ac25d01096/resourceGroups/ResourceGroup1/providers/Microsoft.Web/sites/FrenchTime",
+    "appService.deploySubpath": ""
 }
